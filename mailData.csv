@@ -1,0 +1,11 @@
+Classification,Attachment Count,Attachment Extension,Email From,Email Subject
+NotSpam,,,email1@example.com,Important Information Regarding Your Account
+Spam,,,email2@example.com,Invitation to our annual event
+Spam,1,ics,email3@example.com,Your order has been shipped
+Spam,,,email4@example.com,Meeting Reminder
+NotSpam,5,"ics,ics,pdf,png,png",email5@example.com,Thank you for your purchase
+Spam,,,email6@example.com,Newsletter - May Edition
+Spam,,,email7@example.com,Account Security Alert
+Spam,,,email8@example.com,Your booking confirmation
+Spam,,,email9@example.com,Payment Received
+NotSpam,1,pdf,email10@example.com,Welcome to our platform
