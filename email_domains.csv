@@ -1,0 +1,269 @@
+Classification,Attachment Count,Attachment Extension,Email From,Email Subject,Email_From_Length,TLD
+NotSpam,0.0,,John the classic Doe <john.doe@example.com>,Meeting Tomorrow,43,com
+Spam,2.0,"pdf,ics",Xavier Exampler <xavier@example.net>,Claim Your Prize Now!,36,net
+NotSpam,1.0,docx,info@company.com,Weekly Newsletter,16,com
+Spam,,,"\How to deal with toxic employees\"" <campaign@mail.hrtrainings.com>""",Managing Toxic & Other employees who have attitude issues,68,com
+Spam,,,"No reply"" <noreply@lottery.org>""",You've Won $1000000!,32,org
+NotSpam,3.0,"png,png,pdf",Jane Smith Santos Rivadeneira <jane.smith@example.com>,Photos from the Event ;),54,com
+Spam,1.0,zip,support@pharmacy.biz,"Get Viagra for Less, and obtain more",20,biz
+NotSpam,0.0,,info@newsletter.com,Special Offer Inside,19,com
+Spam,0.0,,prince@nigeria.com,Help Needed Urgently,18,com
+NotSpam,2.0,"pdf,jpg",marketing@company.com,New Product Catalog,21,com
+NotSpam,0.0,,contact@website.com,Your Order Confirmation,19,com
+Spam,1.0,pdf,deals@shop.com,Exclusive Discount Inside,14,com
+NotSpam,0.0,,service@bank.com,Statement of Account,16,com
+Spam,0.0,,updates@social.net,See Who Unfollowed You,18,net
+NotSpam,,,support@software.com,Product Update Available,20,com
+Spam,3.0,"exe, exe, exe",bill@microsoft.com,Activate Windows Now!,18,com
+NotSpam,1.0,docx,hr@company.com,Job Application Status,14,com
+NotSpam,0.0,,info@newsletter.com,Weekly Update,19,com
+NotSpam,2.0,pdf,marketing@company.com,New Product Launch,21,com
+NotSpam,,,contact@website.com,Your Inquiry Response,19,com
+NotSpam,0.0,,billing@service.com,Payment Confirmation,19,com
+NotSpam,1.0,docx,hr@company.com,Job Application Confirmation,14,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+NotSpam,2.0,"pdf,ics",sales@ecommerce.com,Your Order Shipment,19,com
+NotSpam,0.0,,info@conference.org,Event Reminder: Next Week,19,org
+NotSpam,0.0,,support@software.com,Product Update Available,20,com
+Spam,0.0,,cupones@descuentos.com,¡Obtén cupones de descuento instantáneos ahora mismo!,22,com
+Spam,0.0,,encuestas@opiniones.com,Gana dinero extra completando nuestras encuestas en línea,23,com
+Spam,2.0,"pdf,ics",ofertas@promociones.com,¡Aprovecha nuestras nuevas ofertas de temporada y ahorra mucho más!,23,com
+NotSpam,0.0,,info@empresa.com,¡Anuncio importante sobre nuestros nuevos productos!,16,com
+NotSpam,1.0,"pdf, ics",clientes@tienda.com,Confirmación de compra y detalle de factura adjunto,19,com
+NotSpam,0.0,,soporte@software.com,Actualización importante: Nueva versión disponible,20,com
+NotSpam,0.0,,info@boletin.com,¡Suscríbete ahora para recibir nuestras últimas noticias!,16,com
+NotSpam,2.0,"ics, ics",ventas@empresa.com,Catálogo de productos actualizado para esta temporada,18,com
+NotSpam,0.0,,contacto@sitio.com,Respuesta a tu consulta sobre nuestros servicios,18,com
+NotSpam,1.0,docx,rrhh@empresa.com,Confirmación de entrevista y detalles de posición,16,com
+NotSpam,0.0,,noticias@sitio.com,¡Únete a nuestra comunidad y mantente informado!,18,com
+NotSpam,2.0,pdf,ventas@ecommerce.com,Detalle de tu pedido y fecha de entrega estimada,20,com
+NotSpam,1.0,pdf,customerservice@retail.com,Return Authorization,26,com
+NotSpam,0.0,,hello@company.com,Welcome to Our Platform,17,com
+NotSpam,0.0,,billing@company.com,Payment Receipt,19,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Updates,22,com
+NotSpam,0.0,,support@service.com,Product Demo Invitation,19,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+NotSpam,2.0,"pdf, png",marketing@company.com,New Campaign Launch,21,com
+NotSpam,0.0,,support@service.com,Help Desk Ticket Confirmation,19,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Updates,22,com
+NotSpam,0.0,,billing@company.com,Invoice Attached,19,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+NotSpam,2.0,"pdf, docx",marketing@company.com,Product Launch Announcement,21,com
+NotSpam,0.0,,support@service.com,Issue Resolved: Ticket #12345,19,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Updates,22,com
+NotSpam,1.0,pdf,sales@ecommerce.com,Your Receipt Attached,19,com
+NotSpam,0.0,,hello@company.com,Thank You for Signing Up,17,com
+NotSpam,0.0,,billing@company.com,Payment Due Reminder,19,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+NotSpam,2.0,"pdf, pdf",marketing@company.com,New Feature Release,21,com
+NotSpam,0.0,,support@service.com,Your Support Request Status,19,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Updates,22,com
+NotSpam,1.0,pdf,sales@ecommerce.com,Your Invoice,19,com
+NotSpam,0.0,,hello@company.com,Welcome Aboard!,17,com
+NotSpam,0.0,,billing@company.com,Invoice Reminder,19,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+NotSpam,2.0,"pdf, ics",marketing@company.com,New Update Available,21,com
+NotSpam,0.0,,support@service.com,Issue Resolved: Ticket #54321,19,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Updates,22,com
+NotSpam,0.0,,billing@company.com,Payment Confirmed,19,com
+NotSpam,0.0,,hello@company.com,Welcome to Our Community,17,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+NotSpam,2.0,pdf,marketing@company.com,Latest News Release,21,com
+NotSpam,0.0,,support@service.com,Query Resolution: Ticket #98765,19,com
+NotSpam,0.0,,info@conference.org,Event Reminder: Tomorrow,19,org
+Spam,1.0,pdf,support@service.com,Important Account Update,19,com
+NotSpam,0.0,,info@travelagency.com,Travel Deals Inside,21,com
+NotSpam,1.0,pdf,customerservice@retail.com,Return Policy Update,26,com
+Spam,0.0,,newsletter@blog.com,New Article Alert,19,com
+NotSpam,0.0,,support@website.com,Password Reset Request,19,com
+Spam,2.0,"pdf,ics",lottery@winners.com,Claim Your Jackpot Prize,19,com
+NotSpam,0.0,,billing@company.com,Payment Receipt,19,com
+Spam,0.0,,noreply@survey.com,Win a Free iPhone!,18,com
+NotSpam,1.0,pdf,support@software.com,Software Update Available,20,com
+Spam,0.0,,urgent@help.com,You've Been Hacked!,15,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Updates,22,com
+Spam,3.0,zip,deals@shop.com,Exclusive Offer Inside,14,com
+NotSpam,0.0,,noreply@bank.com,Your Transaction Receipt,16,com
+Spam,1.0,docx,support@pharmacy.biz,Get Cialis for Less,20,biz
+NotSpam,0.0,,hello@company.com,Welcome to Our Platform,17,com
+Spam,0.0,,prize@lottery.org,You've Won $10000!,17,org
+NotSpam,2.0,"pdf,ics",marketing@company.com,New Campaign Launch,21,com
+NotSpam,0.0,,support@service.com,Help Desk Ticket Confirmation,19,com
+Spam,0.0,,survey@feedback.net,Win a Gift Card Now!,19,net
+NotSpam,1.0,pdf,sales@ecommerce.com,Your Order Confirmation,19,com
+Spam,0.0,,scam@alert.com,Verify Your Account Now!,14,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+Spam,1.0,pdf,debt@settlement.net,Get Out of Debt Now!,19,net
+NotSpam,0.0,,info@conference.org,Event Agenda: Tomorrow,19,org
+Spam,0.0,,noreply@offers.org,You've Won a Cruise Vacation!,18,org
+NotSpam,2.0,pdf,billing@company.com,Invoice Attached,19,com
+Spam,0.0,,noreply@survey.com,Win a Free Trip to Paris!,18,com
+NotSpam,0.0,,support@software.com,Software Update Available,20,com
+Spam,3.0,exe,malware@virus.com,You've Been Infected!,17,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Newsletter,22,com
+Spam,2.0,zip,deals@shop.com,Exclusive Deal Inside,14,com
+NotSpam,0.0,,noreply@bank.com,Your Account Statement,16,com
+Spam,1.0,docx,support@pharmacy.biz,Get Viagra Now!,20,biz
+NotSpam,0.0,,hello@company.com,Thank You for Signing Up,17,com
+Spam,0.0,,prize@lottery.org,Congratulations You've Won!,17,org
+NotSpam,2.0,pdf,marketing@company.com,Product Launch Announcement,21,com
+NotSpam,0.0,,support@service.com,Issue Resolved: Ticket #12345,19,com
+Spam,0.0,,survey@feedback.net,Claim Your Reward Now!,19,net
+NotSpam,1.0,pdf,sales@ecommerce.com,Your Receipt Attached,19,com
+Spam,0.0,,scam@alert.com,Account Verification Required,14,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+Spam,1.0,pdf,debt@settlement.net,Reduce Your Debt Today!,19,net
+NotSpam,0.0,,info@conference.org,Last Minute Event Reminder,19,org
+Spam,0.0,,noreply@offers.org,You've Won a Shopping Spree!,18,org
+NotSpam,2.0,pdf,billing@company.com,Payment Due Reminder,19,com
+Spam,0.0,,noreply@survey.com,Claim Your Free Gift Now!,18,com
+NotSpam,0.0,,support@software.com,Software Update Available,20,com
+Spam,3.0,exe,malware@virus.com,Your Computer is Infected!,17,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Newsletter,22,com
+Spam,2.0,"zip,png",deals@shop.com,Exclusive Savings Inside,14,com
+NotSpam,0.0,,noreply@bank.com,Your New Account Details,16,com
+Spam,1.0,docx,support@pharmacy.biz,Get Cialis Now!,20,biz
+NotSpam,0.0,,hello@company.com,Welcome Aboard!,17,com
+Spam,0.0,,prize@lottery.org,You're a Winner!,17,org
+NotSpam,2.0,pdf,marketing@company.com,New Feature Release,21,com
+NotSpam,0.0,,support@service.com,Your Support Request Status,19,com
+Spam,0.0,,survey@feedback.net,Take Our Survey Now!,19,net
+Spam,2.0,exe,virus@alerta.com,¡Tu computadora está infectada! Descarga nuestro antivirus ahora,16,com
+Spam,0.0,,ofertas@promociones.com,¡Recibe las mejores ofertas directamente en tu bandeja de entrada!,23,com
+Spam,1.0,docx,farmacia@descuentos.com,Aprovecha nuestros precios especiales en medicamentos genéricos,23,com
+Spam,0.0,,loteria@premios.com,¡Has ganado un premio sorpresa! Reclámalo ahora,19,com
+Spam,0.0,,suscripcion@ofertas.com,¡Suscríbete para recibir descuentos exclusivos y promociones especiales!,23,com
+Spam,3.0,"zip, doc, png",ofertas@descuentos.com,¡Descarga nuestro paquete de descuentos y ahorra aún más!,22,com
+Spam,0.0,,notificaciones@sorteos.com,¡Tu participación ha sido seleccionada! Reclama tu premio,26,com
+Spam,1.0,pdf,promociones@ventas.com,¡Descarga nuestra guía de compras para obtener descuentos adicionales!,22,com
+Spam,0.0,,cupones@ofertas.com,¡Cupones exclusivos disponibles por tiempo limitado!,19,com
+NotSpam,1.0,pdf,sales@ecommerce.com,Your Invoice,19,com
+Spam,0.0,,scam@alert.com,Account Update Required,14,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+Spam,1.0,pdf,debt@settlement.net,Consolidate Your Debt Now!,19,net
+NotSpam,0.0,,info@conference.org,Event Details: Tomorrow,19,org
+Spam,0.0,,noreply@offers.org,You've Won a Luxury Getaway!,18,org
+NotSpam,2.0,pdf,billing@company.com,Invoice Reminder,19,com
+Spam,0.0,,noreply@survey.com,Claim Your Free Prize Now!,18,com
+NotSpam,0.0,,support@software.com,Software Update Available,20,com
+Spam,3.0,exe,malware@virus.com,Your System is Infected!,17,com
+NotSpam,0.0,,newsletter@updates.com,Subscribe to Our Newsletter,22,com
+Spam,2.0,zip,deals@shop.com,Special Offer Inside,14,com
+NotSpam,0.0,,noreply@bank.com,Your Recent Transactions,16,com
+Spam,1.0,docx,support@pharmacy.biz,Get Viagra Today!,20,biz
+NotSpam,0.0,,hello@company.com,Welcome to Our Community,17,com
+Spam,0.0,,prize@lottery.org,You've Hit the Jackpot!,17,org
+NotSpam,2.0,"pdf,ics",marketing@company.com,New Update Available,21,com
+NotSpam,0.0,,support@service.com,Issue Resolved: Ticket #54321,19,com
+Spam,0.0,,promociones@ofertas.com,¡Grandes descuentos en productos de tecnología esta temporada!,23,com
+Spam,1.0,pdf,info@loteria.com,Gana un millón de dólares con nuestra lotería semanal,16,com
+Spam,0.0,,premios@sorteos.com,¡Felicidades! Eres el ganador de nuestro sorteo mensual,19,com
+Spam,2.0,"zip,ics",ofertas@descuentos.com,¡Descarga nuestro catálogo de ofertas exclusivas ahora!,22,com
+Spam,0.0,,cupones@rebajas.com,¡Obtén cupones de descuento para tus compras en línea!,19,com
+Spam,1.0,pdf,info@seguros.com,Aprovecha nuestra oferta especial en seguros de vida,16,com
+Spam,0.0,,encuestas@opiniones.com,Gana una tarjeta de regalo completando nuestra encuesta,23,com
+Spam,0.0,,ofertas@compras.com,¡Ofertas de último minuto! No te las pierdas,19,com
+Spam,0.0,,encuestas@opiniones.com,Gana un viaje gratis compartiendo tu opinión con nosotros,23,com
+Spam,2.0,pdf,ofertas@promociones.com,¡Nuevas ofertas disponibles! Descarga el folleto ahora,23,com
+Spam,3.0,"zip,pdf,png",descargas@ofertas.com,¡Descarga nuestro paquete especial de regalo y sorpresas!,21,com
+Spam,0.0,,notificaciones@loteria.com,¡Eres nuestro nuevo ganador! Reclama tu premio hoy mismo,26,com
+Spam,1.0,pdf,promociones@rebajas.com,¡Descubre nuestras ofertas imperdibles para este fin de semana!,23,com
+NotSpam,0.0,,eventos@organizador.com,Recordatorio de evento: ¡No te lo pierdas!,23,com
+NotSpam,0.0,,soporte@software.com,Actualización de seguridad importante: Instalar ahora,20,com
+NotSpam,1.0,pdf,devoluciones@tienda.com,Instrucciones para devolver productos y obtener reembolso,23,com
+NotSpam,0.0,,contacto@empresa.com,¡Contáctanos para cualquier pregunta o solicitud!,20,com
+Spam,0.0,,loteria@premios.com,¡Tu boleto ha sido seleccionado como ganador! Reclama tu premio,19,com
+Spam,0.0,,ofertas@compras.com,¡Recibe descuentos especiales solo para suscriptores!,19,com
+Spam,1.0,pdf,viajes@ofertas.com,¡Reserva tus vacaciones con nosotros y obtén un descuento del 50%!,18,com
+Spam,0.0,,suscripcion@promociones.com,¡Regístrate para recibir promociones exclusivas y sorteos emocionantes!,27,com
+NotSpam,0.0,,facturacion@servicio.com,Confirmación de pago procesado con éxito,24,com
+NotSpam,0.0,,boletin@noticias.com,¡Regístrate para recibir nuestro boletín semanal gratuito!,20,com
+NotSpam,0.0,,soporte@servicio.com,¡Tu solicitud de ayuda ha sido recibida y será atendida pronto!,20,com
+NotSpam,0.0,pdf,boletin@noticias.com,¡Últimas noticias: Mantente al día con lo que está pasando!,20,com
+NotSpam,2.0,pdf,ventas@tienda.com,Confirmación de compra y detalles de envío,17,com
+NotSpam,0.0,,contacto@empresa.com,¡Estamos aquí para ayudarte! Contáctanos ahora mismo,20,com
+NotSpam,0.0,,facturacion@servicio.com,Estado de cuenta: Tu factura está lista para descargar,24,com
+NotSpam,1.0,pdf,rrhh@empresa.com,Confirmación de entrevista y detalles adicionales,16,com
+NotSpam,0.0,,Noticias Lindas <boletin@noticias.com>,¡Suscríbete ahora para recibir nuestras últimas actualizaciones!,38,com
+NotSpam,2.0,"pdf,png",ventas@ecommerce.com,Recibo de tu compra y detalles de envío,20,com
+NotSpam,0.0,,eventos@organizador.com,Recordatorio de evento: Mañana es el gran día,23,com
+NotSpam,0.0,,soporte@software.com,Actualización de software disponible: Mejoras y correcciones,20,com
+NotSpam,1.0,pdf,devoluciones@tienda.com,Proceso de devolución exitoso: Detalles y próximos pasos,23,com
+NotSpam,0.0,,contacto@empresa.com,¡Nos encantaría escuchar tus comentarios! Contáctanos,20,com
+NotSpam,0.0,,facturacion@servicio.com,Tu factura ha sido generada: Detalles adjuntos,24,com
+NotSpam,0.0,,boletin@noticias.com,¡No te pierdas nuestras últimas noticias y actualizaciones!,20,com
+NotSpam,2.0,"pdf, ics",ventas@tienda.com,Confirmación de pedido y detalles de entrega,17,com
+NotSpam,0.0,,contacto@empresa.com,¡Haznos saber si tienes alguna pregunta o inquietud!,20,com
+NotSpam,0.0,,facturacion@servicio.com,Recibo de pago: Confirma tu transacción,24,com
+NotSpam,1.0,pdf,rrhh@empresa.com,Confirmación de entrevista y detalles de proceso de contratación,16,com
+NotSpam,0.0,,boletin@noticias.com,¡Suscríbete para recibir nuestras noticias más recientes y exclusivas!,20,com
+NotSpam,2.0,pdf,ventas@ecommerce.com,Detalle de tu pedido y fecha de entrega estimada,20,com
+NotSpam,0.0,,eventos@organizador.com,Recordatorio de evento: ¡No te lo pierdas!,23,com
+NotSpam,0.0,,soporte@software.com,Actualización de seguridad importante: Instalar ahora,20,com
+NotSpam,1.0,pdf,devoluciones@tienda.com,Instrucciones para devolver productos y obtener reembolso,23,com
+NotSpam,0.0,,contacto@empresa.com,¡Contáctanos para cualquier pregunta o solicitud!,20,com
+NotSpam,0.0,,facturacion@servicio.com,Confirmación de pago procesado con éxito,24,com
+NotSpam,0.0,,boletin@noticias.com,¡Regístrate para recibir nuestro boletín semanal gratuito!,20,com
+NotSpam,0.0,,soporte@servicio.com,¡Tu solicitud de ayuda ha sido recibida y será atendida pronto!,20,com
+NotSpam,0.0,,boletin@noticias.com,¡Últimas noticias: Mantente al día con lo que está pasando!,20,com
+Spam,0.0,,carmen.fernandez@eccsaseguros.com," ""Atte.-__BEIERSDORF _S.A.C_-Seguros_de_Cr""",33,com
+NotSpam,2.0,"pdf, pdf",ventas@tienda.com,Confirmación de compra y detalles de envío,17,com
+NotSpam,0.0,,contacto@empresa.com,¡Estamos aquí para ayudarte! Contáctanos ahora mismo,20,com
+NotSpam,0.0,,facturacion@servicio.com,Estado de cuenta: Tu factura está lista para descargar,24,com
+NotSpam,1.0,pdf,rrhh@empresa.com,Confirmación de entrevista y detalles adicionales,16,com
+NotSpam,0.0,,boletin@noticias.com,¡Suscríbete ahora para recibir nuestras últimas actualizaciones!,20,com
+NotSpam,2.0,"pdf, ics",ventas@ecommerce.com,Recibo de tu compra y detalles de envío,20,com
+NotSpam,0.0,,eventos@organizador.com,Recordatorio de evento: Mañana es el gran día,23,com
+NotSpam,0.0,,soporte@software.com,Actualización de software disponible: Mejoras y correcciones,20,com
+NotSpam,1.0,pdf,devoluciones@tienda.com,Proceso de devolución exitoso: Detalles y próximos pasos,23,com
+NotSpam,0.0,,newsletter@mail.com,Subscribe to Our Newsletter,19,com
+Spam,0.0,,noreply@offers.org,You've Won a Holiday Package!,18,org
+NotSpam,2.0,"pdf, png",sales@ecommerce.com,Your Invoice Attached,19,com
+Spam,0.0,,debt@settlement.net,Get Out of Debt Fast,19,net
+NotSpam,0.0,,info@company.com,Monthly Report,16,com
+NotSpam,1.0,pdf,clientservice@website.com,Your Subscription Renewal,25,com
+NotSpam,0.0,,support@software.com,Software Maintenance Update,20,com
+NotSpam,0.0,,contacto@empresa.com,¡Nos encantaría escuchar tus comentarios! Contáctanos,20,com
+NotSpam,0.0,,facturacion@servicio.com,Tu factura ha sido generada: Detalles adjuntos,24,com
+NotSpam,0.0,,boletin@noticias.com,¡No te pierdas nuestras últimas noticias y actualizaciones!,20,com
+NotSpam,2.0,pdf,ventas@tienda.com,Confirmación de pedido y detalles de entrega,17,com
+NotSpam,0.0,,contacto@empresa.com,¡Haznos saber si tienes alguna pregunta o inquietud!,20,com
+NotSpam,1.0,xlsx,facturacion@servicio.com,Recibo de pago: Confirma tu transacción,24,com
+NotSpam,1.0,pdf,rrhh@empresa.com,Confirmación de entrevista y detalles de proceso de contratación,16,com
+NotSpam,0.0,,boletin@noticias.com,¡Suscríbete para recibir nuestras noticias más recientes y exclusivas!,20,com
+NotSpam,0.0,,eventos@organizador.com,Recordatorio de evento: Mañana es el gran día,23,com
+NotSpam,0.0,,soporte@software.com,Actualización de seguridad importante: Instalar ahora,20,com
+NotSpam,1.0,pdf,devoluciones@tienda.com,Instrucciones para devolver productos y obtener reembolso,23,com
+NotSpam,0.0,,contacto@empresa.com,¡Contáctanos para cualquier pregunta o solicitud!,20,com
+NotSpam,0.0,,facturacion@servicio.com,Confirmación de pago procesado con éxito,24,com
+Spam,1.0," ""ics""",vitavaldez@homethistoday.com," ""Invitation: Stephen HauberO`YÔ Heute ist der Tagflhar lhre RÃckmeldum@ Mon M""",28,com
+Spam,1.0,pdf,gabriela.fernandes@cparitopex.com," ""S&OP to integrated business planning summit""",33,com
+Spam,0.0,,pranay.c@keyence.co.in,Introducing high accuracy and high speed 2D Micrometer,22,in
+Spam,0.0,,no-reply@kickfire.com,Incomplete Profile: beiersdorf.com,21,com
+Spam,1.0,pdf,marketing@products.com,Special Offers Inside,22,com
+Spam,0.0,,offers@business.com,Exclusive Deals Just for You,19,com
+Spam,0.0,,promotions@deals.com,Unlock Savings Today,20,com
+Spam,1.0,pdf,sales@discounts.com,Don't Miss Out on Discounts,19,com
+Spam,0.0,,discounts@shop.com,Huge Savings Await You,18,com
+Spam,0.0,,offers@specials.com,Limited Time Offers Available Now,19,com
+Spam,1.0,pdf,deals@bargains.com,Amazing Deals Await You,18,com
+Spam,0.0,,sales@discount.com,Incredible Discounts Just for You,18,com
+Spam,0.0,,specials@sale.com,Exclusive Offers Waiting for You,17,com
+Spam,1.0,pdf,promotions@offers.com,Big Savings Inside,21,com
+Spam,0.0,,bargains@discount.com,Unbeatable Bargains Await You,21,com
+Spam,0.0,,sale@discounts.com,Get Ready for Huge Discounts,18,com
+Spam,1.0,pdf,deals@discountoffers.com,Discover Amazing Deals Today,24,com
+Spam,0.0,,offers@discountsavings.com,Unlock Incredible Savings Now,26,com
+Spam,0.0,,promotions@savings.com,Special Promotions Just for You,22,com
+Spam,1.0,pdf,sales@exclusive.com,Exclusive Discounts Inside,19,com
+Spam,0.0,,discounts@deals.com,Don't Miss These Great Discounts,19,com
+Spam,0.0,,specials@discounts.com,Special Offers Waiting for You,22,com
+Spam,1.0,pdf,promotions@specials.com,Special Promotions Inside,23,com
+Spam,0.0,,offers@bargains.com,Huge Savings Await You,19,com
+Spam,,,promotions@sale.com,Unlock Incredible Savings Today,19,com
+Spam,1.0,'pdf',deals@savings.com,Discover Amazing Deals Inside,17,com
+Spam,0.0,'',specials@discounts.com,Exclusive Offers Just for You,22,com
+Spam,,,discounts@sales.com,Unlock Special Discounts Now,19,com
+Spam,1.0,pdf,promotions@deals.com,'Special Offers Await You',20,com
+NotSpam,,,"'""Sistema de Facturación"" <facturacion@servicio.com>'",Confirmación de pago y recibo adjunto,53,com
+NotSpam,2.0,"pdf, xls",ventas@ecommerce.com,Recibo de tu compra y detalles de envío,20,com
