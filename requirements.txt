@@ -1,0 +1,10 @@
+# /////////////////////////////
+# //// Required libraries /////
+# /////////////////////////////
+ipykernel
+seaborn
+pandas
+transformers
+numpy
+nltk
+wordcloud
